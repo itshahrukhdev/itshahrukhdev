@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Shahrukh
 
-<!--
-**itshahrukhdev/itshahrukhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Front-End Developer
 
-Here are some ideas to get you started:
+I focus on building clean, responsive, and user-friendly web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+⚡ Tech Stack
+HTML | CSS | Tailwind (Learning)
+
+📈 Current Focus
+- Improving Front-End development skills
+- Building real-world projects
+- Writing clean and maintainable code
+
+🎯 Goal
+To become a professional Front-End Developer and build modern, high-quality web applications.
+
+📫 Contact
+https://github.com/itshahrukhdev
