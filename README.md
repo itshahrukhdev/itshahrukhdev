@@ -18,7 +18,3 @@ HTML | CSS | Tailwind (Learning)
 🎯 Goal
 
 To become a professional Front-End Developer and build modern, high-quality web applications.
-
-📫 Contact
-
-https://github.com/itshahrukhdev
